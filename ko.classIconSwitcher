@@ -1,0 +1,1 @@
+!function(c,n,t,i){i.bindingHandlers.classIconSwitcher={init:function(c,n,i,o,s){t(c).classIconSwitcher(i.get("classIconSwitcherOptions"))},update:function(c,n,i,o,s){n()()?t(c).classIconSwitcher("toEnd"):t(c).classIconSwitcher("toStart")}}}(document,window,jQuery,ko);
