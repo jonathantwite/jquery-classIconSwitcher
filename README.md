@@ -1,6 +1,8 @@
 # jquery-classIconSwitcher
 A simple CSS-powered animated icon changer.  Works with any icon system that uses css classes to add the icon to an element, e.g. glyphicon or font-awesome.
 
+[![BCH compliance](https://bettercodehub.com/edge/badge/jonathantwite/jquery-classIconSwitcher?branch=master)](https://bettercodehub.com/)
+
 # Usage
 Setup:
 ```html
